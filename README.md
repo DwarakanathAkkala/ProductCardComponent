@@ -30,14 +30,18 @@ Users should be able to:
 
 ### Screenshot
 
+## Mobile Preview
+
 ![Mobile Preview](./design/mobile-preview.png)
+
+## Ative State Preview
 
 ![Active Button State](./design/active-state.png)
 
 ### Links
 
-- Solution URL: [https://github.com/DwarakanathAkkala/ProductCardComponent]
-- Live Site URL: [https://product-css-card-frontend-mentor.netlify.app/]
+- Solution URL: https://github.com/DwarakanathAkkala/ProductCardComponent
+- Live Site URL: https://product-css-card-frontend-mentor.netlify.app/
 
 ## My process
 
@@ -50,9 +54,9 @@ Users should be able to:
 
 ### Useful resources
 
-- [https://iconscout.com/] - This helped me for icon in the button. I really liked this icon pack and easy to integrate.
+- https://iconscout.com/ - This helped me for icon in the button. I really liked this icon pack and easy to integrate.
 
 ## Author
 
-- Website - [https://dwarakanath-akkala.netlify.app/]
-- Frontend Mentor - [@DwarakanathAkkala]
+- Website - https://dwarakanath-akkala.netlify.app/
+- Frontend Mentor - @DwarakanathAkkala
