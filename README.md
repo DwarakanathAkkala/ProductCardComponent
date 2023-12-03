@@ -1,4 +1,4 @@
-# Frontend Mentor - Product preview card component
+# Frontend Mentor - Product Preview Card Component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.png)
 
@@ -59,4 +59,4 @@ Users should be able to:
 ## Author
 
 - Website - https://dwarakanath-akkala.netlify.app/
-- Frontend Mentor - @DwarakanathAkkala
+- Frontend Mentor - https://www.frontendmentor.io/profile/DwarakanathAkkala
